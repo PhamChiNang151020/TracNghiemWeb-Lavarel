@@ -1,0 +1,30 @@
+h1.banner {
+    font-family: "Comfortaa", cursive;
+    font-style: normal;
+    font-weight: 700;
+    font-size: medium;
+    height: 80px;
+    color: yellow;
+    background-color: gray;
+    line-height: 80px;
+    text-align: center;
+    background-image: url(https://img.over-blog-kiwi.com/3/06/80/16/20181214/ob_086456_gradient.jpg);
+    background-size: 100%;
+}
+
+p.footer {
+    font-family: "Comfortaa", cursive;
+    font-style: normal;
+    font-weight: 700;
+
+    height: 60px;
+    line-height: 50px;
+    color: yellow;
+    background-color: gray;
+    text-align: center;
+    margin-top: 5px;
+    background-image: url(https://img.over-blog-kiwi.com/3/06/80/16/20181214/ob_086456_gradient.jpg);
+    background-size: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
